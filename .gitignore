@@ -1,0 +1,9 @@
+/bin
+/include
+/lib
+/lib64
+/share
+*.png
+*.jpg
+*.cfg
+*.txt
